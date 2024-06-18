@@ -1,0 +1,2 @@
+Kumpulan file di atas merupakan penjelasan tentang kode python dari penggajian yang nantinya akan menampilkan visualisasi data berupa Scatter Plot, Histogram, dari Gaji, Box Plot dari Usia, dan Barplot Jenis Kelamin.  
+tujuan dibuatnya visualisasi data dari penggajian tersebut adalah untuk mengembangkan metrik dan metode untuk menilai efektivitas visualisasi data dalam menyampaikan informasi kepada audiens yang beragam.
